@@ -10,8 +10,11 @@ function App() {
         <p>
           My Hub is under maintenance, come back soon!
         </p>
-        <br></br>
-        Diegomez Hub
+        <br>
+        </br>
+        <p>
+          Diegomez Hub
+        </p>
       </header>
     </div>
   );
