@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="" className="App-logo" alt="logo" />
         <p>
           My Hub is under maintenance, come back soon!
         </p>
