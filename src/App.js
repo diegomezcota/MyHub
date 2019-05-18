@@ -5,7 +5,7 @@ import src from './logo.svg';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App"> 
       <header className="App-header">
         <p>
           My Hub is under maintenance, come back soon!
