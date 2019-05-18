@@ -1,6 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import src from './logo.svg';
 
 function App() {
   return (
@@ -13,6 +14,9 @@ function App() {
         </br>
         <p>
           Diegomez Hub
+        </p>
+        <p href="https://www.linkedin.com/in/diegomezcota/" src = "https://www.linkedin.com/in/diegomezcota/">
+          https://www.linkedin.com/in/diegomezcota/
         </p>
       </header>
     </div>
