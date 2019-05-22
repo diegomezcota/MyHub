@@ -15,9 +15,9 @@ function App() {
         <p>
           Diegomez Hub
         </p>
-        <p href="https://www.linkedin.com/in/diegomezcota/" src = "https://www.linkedin.com/in/diegomezcota/">
+        <a href="https://www.linkedin.com/in/diegomezcota/" src = "https://www.linkedin.com/in/diegomezcota/" target="_blank">
           https://www.linkedin.com/in/diegomezcota/
-        </p>
+        </a>
       </header>
     </div>
   );
