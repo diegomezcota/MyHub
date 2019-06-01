@@ -14,7 +14,7 @@ function App() {
         <img src="./me.png" width = "200rem" alt = "Me animated" title="Me animated, created by @christ0089 (Twitter)"/>
 
         <p>
-          Diegomez Hub
+          <strong>Diegomez Hub</strong>
         </p>
 
         <a href="https://www.linkedin.com/in/diegomezcota/" src = "https://www.linkedin.com/in/diegomezcota/" target="_blank">
