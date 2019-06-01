@@ -10,14 +10,17 @@ function App() {
         <p>
           My Hub is under maintenance, come back soon!
         </p>
-        <br>
-        </br>
+ 
+        <img src="./me.png" width = "200" alt = "Me animated" title="Me animated, created by @christ0089 (Twitter)"/>
+
         <p>
           Diegomez Hub
         </p>
+
         <a href="https://www.linkedin.com/in/diegomezcota/" src = "https://www.linkedin.com/in/diegomezcota/" target="_blank">
           https://www.linkedin.com/in/diegomezcota/
         </a>
+
       </header>
     </div>
   );
