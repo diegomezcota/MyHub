@@ -11,7 +11,7 @@ function App() {
           My Hub is under maintenance, come back soon!
         </p>
  
-        <img src="./me.png" width = "200" alt = "Me animated" title="Me animated, created by @christ0089 (Twitter)"/>
+        <img src="./me.png" width = "200rem" alt = "Me animated" title="Me animated, created by @christ0089 (Twitter)"/>
 
         <p>
           Diegomez Hub
