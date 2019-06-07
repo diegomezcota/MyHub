@@ -20,7 +20,7 @@ function App() {
         <div className="myLinkedInLink">
           <p>
             <a href="https://github.com/diegomezcota" src = "https://github.com/diegomezcota" target="_blank">
-              <img src = "./media/githubLogo.png" alt = "GitHub logo" title="Take a look to my GitHub!" width="80rem"/>
+              <img src = "./media/githubLogo.png" alt = "GitHub logo" title="Take a look at my GitHub!" width="80rem"/>
             </a>
 
             <a href="https://www.linkedin.com/in/diegomezcota/" src = "https://www.linkedin.com/in/diegomezcota/" target="_blank">
