@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  background-color: rgb(66, 179, 231);
+  background-color: rgb(18, 141, 125);
 }
 
 .App-logo {
@@ -30,4 +30,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+/*rgba agrega opacidad*/
+
+.logo {
+  background: rgba(63, 61, 61, 0.85);
+  color: white;
+  width: 100%;
 }
