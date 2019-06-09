@@ -29,10 +29,10 @@ function App() {
               <img src = "./media/linkedInLogo.png" alt = "LinkedIn logo" title="You can contact me on LinkedIn :)" width="73rem"/>
             </a>
           </p>
-          
         </div>
     
       </header>
+
     </div>
   );
 }
