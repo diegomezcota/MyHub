@@ -13,10 +13,12 @@ function App() {
  
         <img src="./media/me.png" width = "200rem" alt = "Me animated" title="Me animated, created by @christ0089 (Twitter)"/>
 
-        <p>
-          <strong className = "logo"> Diegomez Hub</strong>
-        </p>
-
+        <div className = "logo">
+          <p>
+            <strong> Diegomez Hub</strong>
+          </p>
+        </div>
+        
         <div className="myLinkedInLink">
           <p>
             <a href="https://github.com/diegomezcota" src = "https://github.com/diegomezcota" target="_blank">
