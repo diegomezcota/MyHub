@@ -14,7 +14,7 @@ function App() {
         <img src="./media/me.png" width = "200rem" alt = "Me animated" title="Me animated, created by @christ0089 (Twitter)"/>
 
         <p>
-          <strong>Diegomez Hub</strong>
+          <strong className = "logo"> Diegomez Hub</strong>
         </p>
 
         <div className="myLinkedInLink">

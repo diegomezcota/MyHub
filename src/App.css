@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+.logo {
+  background: rgb(63, 61, 61);
+  color: white;
+}
