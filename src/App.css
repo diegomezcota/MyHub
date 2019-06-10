@@ -23,6 +23,10 @@
   color: #c8d32b;
 }
 
+.socialMedia{
+  margin: 1rem;
+}
+
 .socialMedia:hover{
     transition: all .2s ease-in-out;
     transform: translateY(-10%);
