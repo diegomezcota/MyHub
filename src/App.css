@@ -35,7 +35,7 @@
 /*rgba agrega opacidad, la transparencia va del 0 a 1, se usa en el diseño web moderno, se utiliza en cajas de
 contenedores y se utiliza para dar transparencia y poner un fondo*/
 
-.logo {
+.contactMe {
   background: rgba(63, 61, 61, 0.65);
   color: white;
   width: 100%;

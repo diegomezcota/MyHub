@@ -19,7 +19,7 @@ function App() {
           </p>
         </div>
         
-        <div className = "logo">
+        <div className = "contactMe">
           <p>
             
             <a href="https://github.com/diegomezcota" src = "https://github.com/diegomezcota" target="_blank">
