@@ -15,7 +15,7 @@ function App() {
 
         <div>
           <p>
-            <strong> Diegomez Hub</strong>
+            <strong>Diegomez Hub</strong>
           </p>
         </div>
         
