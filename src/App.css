@@ -24,7 +24,7 @@
 }
 
 .socialMedia{
-  margin: 2rem 2rem;
+  margin: 0rem 2rem;
 }
 
 .socialMedia:hover{
@@ -35,8 +35,8 @@
 /*rgba agrega opacidad, la transparencia va del 0 a 1, se usa en el diseño web moderno, se utiliza en cajas de
 contenedores y se utiliza para dar transparencia y poner un fondo*/
 
-.contactMe {
+.logo {
   background: rgba(63, 61, 61, 0.65);
-  width: 50%;
-  border: 1rem solid black;
+  color: white;
+  width: 100%;
 }
