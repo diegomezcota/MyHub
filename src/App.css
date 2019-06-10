@@ -23,13 +23,9 @@
   color: #c8d32b;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.socialMedia:hover{
+    transition: all .2s ease-in;
+    transform: translateY(-10%);
 }
 
 /*rgba agrega opacidad, la transparencia va del 0 a 1, se usa en el diseño web moderno, se utiliza en cajas de
