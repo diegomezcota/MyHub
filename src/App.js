@@ -13,14 +13,15 @@ function App() {
  
         <img src="./media/me.png" width = "200rem" alt = "Me animated" title="Me animated, created by @christ0089 (Twitter)"/>
 
-        <div className = "logo">
+        <div>
           <p>
             <strong> Diegomez Hub</strong>
           </p>
         </div>
         
-        <div>
+        <div className = "logo">
           <p>
+
             <a href="https://github.com/diegomezcota" src = "https://github.com/diegomezcota" target="_blank">
               <img className = "socialMedia" src = "./media/githubLogo.png" alt = "GitHub logo" title="Take a look at my GitHub!" width="77.5rem"/>
             </a>
@@ -28,6 +29,7 @@ function App() {
             <a href="https://www.linkedin.com/in/diegomezcota/" src = "https://www.linkedin.com/in/diegomezcota/" target="_blank">
               <img className = "socialMedia" src = "./media/linkedInLogo.png" alt = "LinkedIn logo" title="You can contact me on LinkedIn :)" width="73rem"/>
             </a>
+
           </p>
         </div>
     
