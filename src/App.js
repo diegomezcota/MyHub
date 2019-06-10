@@ -19,9 +19,9 @@ function App() {
           </p>
         </div>
         
-        <div className = "logo">
+        <div className = "contactMe">
           <p>
-            
+
             <a href="https://github.com/diegomezcota" src = "https://github.com/diegomezcota" target="_blank">
               <img className = "socialMedia" src = "./media/githubLogo.png" alt = "GitHub logo" title="Take a look at my GitHub!" width="77.5rem"/>
             </a>
