@@ -4,17 +4,18 @@
   background-attachment: fixed;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.userBar {
+  float: left;
 }
 
 .App-header {
   min-height: 100vh;
   display: flex;
+  /*
+  por si rompo algo xd
   flex-direction: column;
   align-items: center;
+  */
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: rgb(245, 241, 241);

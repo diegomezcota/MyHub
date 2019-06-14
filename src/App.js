@@ -7,16 +7,13 @@ function App() {
   return (
     <div className="App"> 
       <header className="App-header">
-        <p>
-          My Hub is under maintenance, come back soon!
-        </p>
- 
-        <img src="./media/me.png" width = "200rem" alt = "Me animated" title="Me animated, created by @christ0089 (Twitter)"/>
-
-        <div>
+        <div className="userBar">
           <p>
-            <strong>Diegomez Hub</strong>
+            Welcome to my personal hub!
           </p>
+  
+          <img src="./media/me.png" width = "200rem" alt = "Me animated" title="Me animated, created by @christ0089 (Twitter)"/>
+
         </div>
         
         <div className = "contactMe">
