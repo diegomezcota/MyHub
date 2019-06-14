@@ -31,7 +31,7 @@ function App() {
             </a>
 
             <a href="https://leetcode.com/diegomezcota/" src = "https://leetcode.com/diegomezcota/" target="_blank">
-              <img className = "socialMedia" src = "./media/leetcodeLogo.png" alt = "Leetcode logo" title="My coding gym" width="80rem"/>
+              <img className = "socialMediaLeetcode" src = "./media/leetcodeLogo.png" alt = "Leetcode logo" title="My coding gym"/>
             </a>
 
           </p>

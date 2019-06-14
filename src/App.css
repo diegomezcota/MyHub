@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   background-color: rgb(18, 141, 125);
+  background-attachment: fixed;
 }
 
 .App-logo {
@@ -32,6 +33,18 @@
     transform: translateY(-10%);
 }
 
+.socialMediaLeetcode:hover{
+  transition: all .2s ease-in-out;
+  transform: translateY(-10%);
+}
+
+.socialMediaLeetcode{
+  margin: 0rem 2rem;
+  position: relative;
+  top: 0.5rem;
+  width:5.8rem;
+}
+
 /*rgba agrega opacidad, la transparencia va del 0 a 1, se usa en el diseño web moderno, se utiliza en cajas de
 contenedores y se utiliza para dar transparencia y poner un fondo*/
 
@@ -39,4 +52,9 @@ contenedores y se utiliza para dar transparencia y poner un fondo*/
   background: rgba(63, 61, 61, 0.65);
   color: white;
   width: 100%;
+}
+
+.leetcodeLogo {
+  position: relative;
+  top: 2 rem;
 }
