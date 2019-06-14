@@ -50,13 +50,14 @@
 contenedores y se utiliza para dar transparencia y poner un fondo*/
 
 .feed {
-  background-color: rgb(252, 252, 252);
+  background-color: rgb(60, 65, 64);
   width: 100%;
   color: white;
   float: left;
 }
 
 .socialMediaBar {
+  width: 100%;
   background-color: rgba(14, 146, 128);
 }
 
