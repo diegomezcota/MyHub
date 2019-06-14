@@ -27,6 +27,22 @@ function App() {
               </div>
           </div>
           
+          <div className = "socialMediaBar">
+          <p>
+            <a href="https://github.com/diegomezcota" src = "https://github.com/diegomezcota" target="_blank">
+              <img className = "socialMedia" src = "./media/githubLogo.png" alt = "GitHub logo" title="Take a look at my GitHub!" width="77.5rem"/>
+            </a>
+
+            <a href="https://www.linkedin.com/in/diegomezcota/" src = "https://www.linkedin.com/in/diegomezcota/" target="_blank">
+              <img className = "socialMedia" src = "./media/linkedInLogo.png" alt = "LinkedIn logo" title="You can contact me on LinkedIn :)" width="73rem"/>
+            </a>
+
+            <a href="https://leetcode.com/diegomezcota/" src = "https://leetcode.com/diegomezcota/" target="_blank">
+              <img className = "socialMediaLeetcode" src = "./media/leetcodeLogo.png" alt = "Leetcode logo" title="My coding gym"/>
+            </a>
+
+          </p>
+        </div>
           
         </div>  
     
@@ -36,22 +52,7 @@ function App() {
   );
 }
 /*
-<div className = "socialMediaBar">
-  <p>
-    <a href="https://github.com/diegomezcota" src = "https://github.com/diegomezcota" target="_blank">
-      <img className = "socialMedia" src = "./media/githubLogo.png" alt = "GitHub logo" title="Take a look at my GitHub!" width="77.5rem"/>
-    </a>
 
-    <a href="https://www.linkedin.com/in/diegomezcota/" src = "https://www.linkedin.com/in/diegomezcota/" target="_blank">
-      <img className = "socialMedia" src = "./media/linkedInLogo.png" alt = "LinkedIn logo" title="You can contact me on LinkedIn :)" width="73rem"/>
-    </a>
-
-    <a href="https://leetcode.com/diegomezcota/" src = "https://leetcode.com/diegomezcota/" target="_blank">
-      <img className = "socialMediaLeetcode" src = "./media/leetcodeLogo.png" alt = "Leetcode logo" title="My coding gym"/>
-    </a>
-
-  </p>
-</div>
 */
 
 export default App;
