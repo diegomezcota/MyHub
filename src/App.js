@@ -17,7 +17,7 @@ function App() {
         <div className = "feed">
           
           <div className = "achievements">
-              <br/><br/>
+              <br/>
               <img className = "an_achievementPhoto" src="./media/hackMTY.jpg"/>
               <br/> <br/>
               <img className = "an_achievementPhoto" src="./media/marianoChatbot.jpg"/>
